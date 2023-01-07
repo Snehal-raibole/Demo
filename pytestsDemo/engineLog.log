@@ -1,0 +1,3 @@
+2022-12-27 18:22:49,229 : WARNING : pytestsDemo.test_logging : Its Warning Logs
+2022-12-27 18:22:49,230 : ERROR : pytestsDemo.test_logging : Its Error Logs
+2022-12-27 18:22:49,230 : CRITICAL : pytestsDemo.test_logging : Its Critical Logs
