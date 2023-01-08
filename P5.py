@@ -83,9 +83,18 @@ assert mytotal_after_discount == total_after_discount
 
 #Place an order
 print("total is matched:", total_after_discount)
+
 driver.find_element(By.XPATH, '//button[text()="Place Order"]').click()
 
 #select location for delivery
 countries = driver.find_element(By.XPATH, '//div[@class="wrapperTwo"]/div/select').click()
 time.sleep(3)
 
+print("total is matched:", total_after_discount)
+
+
+print("total is matched:")
+print("total is matched:")
+print("total is matched:")
+print("total is matched:")
+print("total is matched:")
