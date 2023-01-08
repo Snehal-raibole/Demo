@@ -25,5 +25,6 @@ select = Select(driver.find_element(By.XPATH, '//select[@id="dropdown-class-exam
 select.select_by_index(2)
 
 time.sleep(3)
+print("Hiiiiiiiiiiiiiiiiiiiiiiiiii")
 
 
